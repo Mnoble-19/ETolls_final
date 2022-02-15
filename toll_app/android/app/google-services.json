@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379165836327",
+    "project_id": "tolls-bade6",
+    "storage_bucket": "tolls-bade6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379165836327:android:6cd56f9240cbee3213ba02",
+        "android_client_info": {
+          "package_name": "com.example.toll_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379165836327-emggia4gqb1snk5qt39fnspfv4v08sqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFFFNZzk0SIjgVSjdoOlp2Xr3Oj0y7kIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379165836327-emggia4gqb1snk5qt39fnspfv4v08sqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
